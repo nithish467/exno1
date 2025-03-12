@@ -26,7 +26,8 @@ STEP 6: Use zscore of to remove outliers
 BY :
 Name :  NITHISHKUMAR S
 Reg no: 212223240109
-
+```
+```
 import pandas as pd
 df=pd.read_csv("SAMPLEIDS.csv")
 df
